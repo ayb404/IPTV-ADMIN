@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.title {
+    width: 50%;
+    height: 30%;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.table {
+    width: 90%;
+    margin: 0 auto;
+}
